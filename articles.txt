@@ -12,3 +12,5 @@ DocSegTr - https://github.com/biswassanket/DocSegTr
 SelfDoc - https://paperswithcode.com/paper/selfdoc-self-supervised-document
 Udoc - https://paperswithcode.com/paper/unified-pretraining-framework-for-document
 ERNIE-Layout - https://paperswithcode.com/paper/ernie-layout-layout-knowledge-enhanced-pre
+TILT - https://paperswithcode.com/paper/going-full-tilt-boogie-on-document
+StructuralLM - https://paperswithcode.com/paper/structurallm-structural-pre-training-for-form
