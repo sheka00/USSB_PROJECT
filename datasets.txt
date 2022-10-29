@@ -1,16 +1,16 @@
 DocLayNet - анализ макета документа
 PubLayNet - анализ макета документа
-FUNSD - извлечение информации из отсканированных документов, извлечение отношения
-DocBank - анализ макета документа
+FUNSD - извлечение информации из отсканированных документов, извлечение отношения(https://guillaumejaume.github.io/FUNSD/)
+DocBank - анализ макета документа(https://github.com/doc-analysis/DocBank)
 BiNyas - анализ макета документа
-TableBank - сегментирование таблиц
+TableBank - сегментирование таблиц(https://github.com/doc-analysis/TableBank)
 TableX - сегментирование таблиц
 WTW - сегментирование таблиц(https://paperswithcode.com/dataset/wtw)
 PubTabNet - сегментирование таблиц
 PRImA - анализ макета документа (https://www.primaresearch.org/dataset/)
 Hjdataset - анализ макета документа
-Xfund - распознование именованных обьектов, извлечение отношения
-CORD - извлечение информации из отсканированных документов
+Xfund - распознование именованных обьектов, извлечение отношения(https://github.com/doc-analysis/XFUND)
+CORD - извлечение информации из отсканированных документов(https://github.com/clovaai/cord)
 Ephoie - извлечение визуальной информации (https://github.com/HCIILAB/EPHOIE)
 RVL-CDIP - классификация изображений документов
 DocVQA - визуальный ответ на вопрос документа
@@ -22,4 +22,4 @@ DocRED - извлечения отношений на уровне документа
 SciREX - извлечения отношений на уровне документа
 IIIT-AR-13K - извлечение визуальной информации в 5 категориях(https://paperswithcode.com/dataset/iiit-ar-13k)
 VisualMRC - визуальный ответ на вопрос документа
-ReadingBank - определения порядка чтения документа
+ReadingBank - определения порядка чтения документа(https://github.com/doc-analysis/ReadingBank)
