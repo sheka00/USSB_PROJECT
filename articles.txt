@@ -14,3 +14,4 @@ Udoc - https://paperswithcode.com/paper/unified-pretraining-framework-for-docume
 ERNIE-Layout - https://paperswithcode.com/paper/ernie-layout-layout-knowledge-enhanced-pre
 TILT - https://paperswithcode.com/paper/going-full-tilt-boogie-on-document
 StructuralLM - https://paperswithcode.com/paper/structurallm-structural-pre-training-for-form
+LayoutReader - https://paperswithcode.com/paper/layoutreader-pre-training-of-text-and-layout
