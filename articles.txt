@@ -1,0 +1,18 @@
+Docformer - https://github.com/shabie/docformer
+Layout parser - https://github.com/Layout-Parser/layout-parser
+DiT - https://github.com/microsoft/unilm/tree/master/dit
+XDoc - https://github.com/microsoft/unilm/tree/master/xdoc
+MarkupLM - https://github.com/microsoft/unilm/tree/master/markuplm
+LayoutXLM - https://github.com/microsoft/unilm/tree/master/layoutxlm
+Layoutlmv 3 / 2 / 1 - https://github.com/microsoft/unilm/tree/master/layoutlm, https://github.com/microsoft/unilm/tree/master/layoutlmv2, https://github.com/microsoft/unilm/tree/master/layoutlmv3
+Lilt - https://github.com/jpWang/LiLT
+PaddleOcr - https://github.com/PaddlePaddle/PaddleOCR
+PICK-pytorch - https://github.com/wenwenyu/PICK-pytorch
+DocSegTr - https://github.com/biswassanket/DocSegTr
+SelfDoc - https://paperswithcode.com/paper/selfdoc-self-supervised-document
+Udoc - https://paperswithcode.com/paper/unified-pretraining-framework-for-document
+ERNIE-Layout - https://paperswithcode.com/paper/ernie-layout-layout-knowledge-enhanced-pre
+TILT - https://paperswithcode.com/paper/going-full-tilt-boogie-on-document
+StructuralLM - https://paperswithcode.com/paper/structurallm-structural-pre-training-for-form
+LayoutReader - https://paperswithcode.com/paper/layoutreader-pre-training-of-text-and-layout
+Donut - https://github.com/clovaai/donut
