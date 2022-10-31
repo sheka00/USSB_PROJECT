@@ -23,3 +23,4 @@ SciREX - извлечения отношений на уровне документа
 IIIT-AR-13K - извлечение визуальной информации в 5 категориях(https://paperswithcode.com/dataset/iiit-ar-13k)
 VisualMRC - визуальный ответ на вопрос документа
 ReadingBank - определения порядка чтения документа(https://github.com/doc-analysis/ReadingBank)
+CDLA - китайский https://github.com/buptlihang/CDLA

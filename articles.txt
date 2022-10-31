@@ -16,3 +16,5 @@ TILT - https://paperswithcode.com/paper/going-full-tilt-boogie-on-document
 StructuralLM - https://paperswithcode.com/paper/structurallm-structural-pre-training-for-form
 LayoutReader - https://paperswithcode.com/paper/layoutreader-pre-training-of-text-and-layout
 Donut - https://github.com/clovaai/donut
+PP-StructureV2 - https://paperswithcode.com/paper/pp-structurev2-a-stronger-document-analysis
+StrucTexT - https://paperswithcode.com/paper/structext-structured-text-understanding-with
