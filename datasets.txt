@@ -24,3 +24,4 @@ IIIT-AR-13K - извлечение визуальной информации в 5 категори€х(https://paperswith
 VisualMRC - визуальный ответ на вопрос документа
 ReadingBank - определени€ пор€дка чтени€ документа(https://github.com/doc-analysis/ReadingBank)
 CDLA - китайский https://github.com/buptlihang/CDLA
+Skim-Attention - https://paperswithcode.com/paper/skim-attention-learning-to-focus-via-document

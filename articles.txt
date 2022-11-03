@@ -18,3 +18,4 @@ LayoutReader - https://paperswithcode.com/paper/layoutreader-pre-training-of-tex
 Donut - https://github.com/clovaai/donut
 PP-StructureV2 - https://paperswithcode.com/paper/pp-structurev2-a-stronger-document-analysis
 StrucTexT - https://paperswithcode.com/paper/structext-structured-text-understanding-with
+VILA - https://paperswithcode.com/paper/incorporating-visual-layout-structures-for
